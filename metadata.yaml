@@ -9,7 +9,12 @@ contributor:
     gutenberg_agent_id: '57315'
     url: http://www.gutenberg.org/2009/agents/57315
     wikipedia: https://en.wikipedia.org/wiki/John_R._Swanton
+covers:
+- cover_type: archival
+  image_path: 74172-h/images/new-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74172#Haida-texts-and-myths-b-Skidegate-dialect
 gutenberg_issued: '2024-08-01'
 gutenberg_type: Text
 identifiers:
